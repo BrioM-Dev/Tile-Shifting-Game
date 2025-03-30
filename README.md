@@ -26,4 +26,25 @@ A tile-shifting puzzle game where players match the blocks to a provided pattern
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BrioM-Dev/tile-shifting-game.git
+   git clone https://github.com/yourusername/tile-shifting-game.git
+
+## Contributing
+
+Feel free to fork the repository and submit pull requests if you'd like to contribute improvements, such as:
+
+- Adding new levels or difficulty settings.
+- Improving the user interface or visual elements.
+- Fixing bugs or performance issues.
+- Suggesting new features or enhancements.
+
+## Contributing
+
+If you'd like to contribute to the project, follow these steps:
+
+1. **Fork the repository**:
+   - Click the **Fork** button at the top-right of this page.
+
+2. **Clone your fork** to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/tile-shifting-game.git
+
